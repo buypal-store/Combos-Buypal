@@ -470,6 +470,8 @@ const PRODUCTS = [
 },
 
 
+
+
 //-------------------------EXTRAS------------------------
  {
   id: "wireless-nvr-imou",
@@ -505,6 +507,24 @@ const PRODUCTS = [
     "Compatibilidad: WiFi 2.4Ghz",
     "Diseño: Compacto",
     "Configuración: No requiere concentrador"
+  ]
+},
+{
+  id: "alarma_comunitaria",
+  name: "Sirena Comunitaria",
+  price: 129,
+  category: "Extras",
+  subCategory: "Varios",
+  type: "extra",
+  image: "imagenes/Tapo/SIRENA COMUNITARIA.jpg.jpeg",
+  highlights: [
+  "Potente sirena de 60W para alertas de seguridad",
+  "3 tonos de alarma configurables",
+  "Compatible con hasta 80 controles remotos",
+  "Amplio rango de voltaje 90–240V AC",
+  "Incluye botón físico de activación",
+  "Ideal para barrios, condominios y negocios"
+
   ]
 },
 //-------------------------LARGO ALCANCE------------------------
